@@ -5,9 +5,13 @@ This Excel report provides an in-depth analysis of Vrinda Store's sales and orde
 
 # Features
 **Orders vs. Sales Analysis:**  Monthly trend of order values displayed in a bar and line chart.
+
 **Sales by Gender:** Pie chart showing the distribution of sales between men (36%) and women (64%).
+
 **Order Status Breakdown:** Pie chart indicating the percentage of orders delivered (92%), refunded, returned (3%), and canceled (3%).
+
 **Top 5 States by Sales**: Horizontal bar chart ranking the top-performing states:
+
 **Maharashtra: 2990.22M
 Karnataka: 2646.36M
 Uttar Pradesh: 2104.66M
